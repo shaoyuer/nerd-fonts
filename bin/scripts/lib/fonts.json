@@ -4,7 +4,7 @@
       "unpatchedName": "0xProto",
       "licenseId": "OFL-1.1-no-RFN",
       "RFN": false,
-      "version": "2.201",
+      "version": "2.300",
       "patchedName": "0xProto",
       "folderName": "0xProto",
       "imagePreviewFont": "0xProto Nerd Font",
@@ -74,6 +74,21 @@
       "repoRelease": true,
       "isMonospaced": false,
       "description": "Metrically similar to Arial, pan-European WGL character set, sans serif"
+    },
+    {
+      "unpatchedName": "Atkinson Hyperlegible Mono",
+      "licenseId": "OFL-1.1-RFN",
+      "RFN": true,
+      "version": "2.001",
+      "patchedName": "AtkynsonMono",
+      "folderName": "AtkinsonMono",
+      "imagePreviewFont": "AtkynsonMono NF",
+      "imagePreviewFontSource": "AtkinsonHyperlegibleMono/AtkinsonHyperlegibleMono-Regular.ttf",
+      "linkPreviewFont": "atkinson-hyperlegible",
+      "caskName": "atkynson-mono",
+      "repoRelease": false,
+      "isMonospaced": true,
+      "description": "A monospaced font designed to improve legibility and readability for individuals with low vision"
     },
     {
       "unpatchedName": "Aurulent Sans Mono",

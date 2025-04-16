@@ -8,3 +8,8 @@ To try things out on all fonts here is also a list of one specimen each for
 all the fonts in `fontfilenames`. This can be used via
 
         $ cat fontfilenames | xargs fontforge .....
+
+The fontfilenames file can be regenerated (when fonts have been added, ...) with
+
+        $ jq -r '.fonts | .[] | ."imagePreviewFontSource"' ../../bin/scripts/lib/fonts.json | \
+            grep -v '\.sfd$' | sed 's/ /\\ /g' | sort > fontfilenames

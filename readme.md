@@ -116,11 +116,12 @@ A preview of all fonts can be found [here](https://www.nerdfonts.com/font-downlo
 
 | Font Name                                         | Original Font Name and Repository      | ver        |\*RFN |
 |:--------------------------------------------------|:---------------------------------------|:-----------|:-----|
-| [0xProto Nerd Font][p-0xProto]                    | [0xProto][f-0xProto]                   | 2.201      | NO   |
+| [0xProto Nerd Font][p-0xProto]                    | [0xProto][f-0xProto]                   | 2.300      | NO   |
 | [3270 Nerd Font][p-3270]                          | [3270][f-3270]                         | 3.0.1      | NO   |
 | [Agave Nerd Font][p-agave]                        | [Agave][f-agave]                       | 37         | NO   |
 | [AnonymicePro Nerd Font][p-anonymous-pro]         | [Anonymous Pro][f-a-pro]               | 1.002      | YES  |
 | [Arimo Nerd Font][p-arimo]                        | [Arimo][f-arimo]                       | 1.33       | NO   |
+| [AtynsonMono Nerd Font][p-atkinson-mono]          | [Atkinson Hyperlegible Mono][f-atkinson]| 2.001     | YES  |
 | [AurulentSansMono Nerd Font][p-aurulent]          | Aurulent Sans Mono (Stephen G. Hartke) |            | NO   |
 | [BigBlueTerminal Nerd Font][p-bigblueterm]        | BigBlueTerminal (VileR)                |            | NO   |
 | [BitstromWera Nerd Font][p-bitstream]             | Vera Sans Mono (Bitstream Inc)         | 1.1        | YES  |
@@ -725,6 +726,7 @@ Font repos
 [f-agave]:https://github.com/agarick/agave
 [f-a-pro]:https://www.marksimonson.com/fonts/view/anonymous-pro
 [f-arimo]:https://github.com/googlefonts/Arimo
+[f-atkinson]:https://www.brailleinstitute.org/freefont/
 [f-cascadia]:https://github.com/microsoft/cascadia-code
 [f-cousine]:https://fonts.google.com/specimen/Cousine
 [f-comic]:https://github.com/jesusmgg/comic-shanns-mono
@@ -786,6 +788,7 @@ Patched Font internal links
 [p-agave]:patched-fonts/Agave
 [p-anonymous-pro]:patched-fonts/AnonymousPro
 [p-arimo]:patched-fonts/Arimo
+[p-atkinson-mono]:patched-fonts/AtkinsonHyperlegibleMono
 [p-aurulent]:patched-fonts/AurulentSansMono
 [p-bigblueterm]:patched-fonts/BigBlueTerminal
 [p-bitstream]:patched-fonts/BitstreamVeraSansMono
